@@ -1,0 +1,568 @@
+{
+  "id": 28276,
+  "url": "https://www.tvmaze.com/shows/28276/the-witcher",
+  "name": "The Witcher",
+  "type": "Scripted",
+  "language": "English",
+  "genres": ["Drama", "Action", "Fantasy"],
+  "status": "Running",
+  "runtime": null,
+  "averageRuntime": 58,
+  "premiered": "2019-12-20",
+  "ended": null,
+  "officialSite": "https://www.netflix.com/title/80189685",
+  "schedule": { "time": "", "days": [] },
+  "rating": { "average": 8.1 },
+  "weight": 100,
+  "network": null,
+  "webChannel": {
+    "id": 1,
+    "name": "Netflix",
+    "country": null,
+    "officialSite": "https://www.netflix.com/"
+  },
+  "dvdCountry": null,
+  "externals": { "tvrage": null, "thetvdb": 362696, "imdb": "tt5180504" },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/465/1163193.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/465/1163193.jpg"
+  },
+  "summary": "<p>Based on the best-selling fantasy series, <b>The Witcher</b> is an epic tale of fate and family. Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts. But when destiny hurtles him toward a powerful sorceress, and a young princess with a dangerous secret, the three must learn to navigate the increasingly volatile Continent together.</p>",
+  "updated": 1692565109,
+  "_links": {
+    "self": { "href": "https://api.tvmaze.com/shows/28276" },
+    "previousepisode": { "href": "https://api.tvmaze.com/episodes/2534865" }
+  },
+  "_embedded": {
+    "episodes": [
+      {
+        "id": 1656038,
+        "url": "https://www.tvmaze.com/episodes/1656038/the-witcher-1x01-the-ends-beginning",
+        "name": "The End's Beginning",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 61,
+        "rating": { "average": 7.5 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580508.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580508.jpg"
+        },
+        "summary": "<p>Hostile townsfolk and a cunning mage greet Geralt in the town of Blaviken. Ciri finds her royal world upended when Nilfgaard sets its sights on Cintra.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1656038" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 1665510,
+        "url": "https://www.tvmaze.com/episodes/1665510/the-witcher-1x02-four-marks",
+        "name": "Four Marks",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 61,
+        "rating": { "average": 7.7 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580509.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580509.jpg"
+        },
+        "summary": "<p>Bullied and neglected, Yennefer accidentally finds a means of escape. Geralt's hunt for a so-called devil goes to hell. Ciri seeks safety in numbers.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1665510" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 1665511,
+        "url": "https://www.tvmaze.com/episodes/1665511/the-witcher-1x03-betrayer-moon",
+        "name": "Betrayer Moon",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 67,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580510.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580510.jpg"
+        },
+        "summary": "<p>Geralt takes on another Witcher's unfinished business in a kingdom stalked by a ferocious beast. At a brutal cost, Yennefer forges a magical new future.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1665511" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 1665512,
+        "url": "https://www.tvmaze.com/episodes/1665512/the-witcher-1x04-of-banquets-bastards-and-burials",
+        "name": "Of Banquets, Bastards and Burials",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 62,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580511.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580511.jpg"
+        },
+        "summary": "<p>Against his better judgment, Geralt accompanies Jaskier to a royal ball. Ciri wanders into an enchanted forest. Yennefer tries to protect her charges.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1665512" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 1665513,
+        "url": "https://www.tvmaze.com/episodes/1665513/the-witcher-1x05-bottled-appetites",
+        "name": "Bottled Appetites",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 59,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580512.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580512.jpg"
+        },
+        "summary": "<p>Heedless of warnings, Yennefer looks for a cure to restore what she's lost. Geralt inadvertently puts Jaskier in peril. The search for Ciri intensifies.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1665513" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 1665514,
+        "url": "https://www.tvmaze.com/episodes/1665514/the-witcher-1x06-rare-species",
+        "name": "Rare Species",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 60,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580513.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580513.jpg"
+        },
+        "summary": "<p>A mysterious man tries to entice Geralt to join a hunt for a rampaging dragon, a quest that attracts a familiar face. Ciri questions who she can trust.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1665514" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 1665515,
+        "url": "https://www.tvmaze.com/episodes/1665515/the-witcher-1x07-before-a-fall",
+        "name": "Before a Fall",
+        "season": 1,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 47,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580514.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580514.jpg"
+        },
+        "summary": "<p>With the Continent at risk from Nilfgaard's rising power, Yennefer revisits her past, while Geralt reconsiders his obligation to the Law of Surprise.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1665515" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 1665516,
+        "url": "https://www.tvmaze.com/episodes/1665516/the-witcher-1x08-much-more",
+        "name": "Much More",
+        "season": 1,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2019-12-20",
+        "airtime": "",
+        "airstamp": "2019-12-20T12:00:00+00:00",
+        "runtime": 60,
+        "rating": { "average": 8.1 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/232/580515.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/232/580515.jpg"
+        },
+        "summary": "<p>A terrifying pack of foes lays Geralt low. Yennefer and her fellow mages prepare to fight back. A shaken Ciri depends on the kindness of a stranger.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/1665516" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127791,
+        "url": "https://www.tvmaze.com/episodes/2127791/the-witcher-2x01-a-grain-of-truth",
+        "name": "A Grain of Truth",
+        "season": 2,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 63,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/960804.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960804.jpg"
+        },
+        "summary": "<p>Geralt sets off with Ciri on a journey that leads him to an old friend. After the Battle of Sodden, Tissaia shows no mercy in her search for information.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127791" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127858,
+        "url": "https://www.tvmaze.com/episodes/2127858/the-witcher-2x02-kaer-morhen",
+        "name": "Kaer Morhen",
+        "season": 2,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 58,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/960692.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960692.jpg"
+        },
+        "summary": "<p>Seeking a safe place for Ciri, Geralt heads for home, but danger lurks everywhere — even Kaer Morhen. Yennefer's dreams could be the key to her freedom.</p><p><br /> </p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127858" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127859,
+        "url": "https://www.tvmaze.com/episodes/2127859/the-witcher-2x03-what-is-lost",
+        "name": "What Is Lost",
+        "season": 2,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 59,
+        "rating": { "average": 8 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/960693.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960693.jpg"
+        },
+        "summary": "<p>Impatient with Geralt's methods, Ciri braves major obstacles to prove her mettle. Scheming and suspicion among the Brotherhood make Yennefer a target.</p><p><br /> </p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127859" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127860,
+        "url": "https://www.tvmaze.com/episodes/2127860/the-witcher-2x04-redanian-intelligence",
+        "name": "Redanian Intelligence",
+        "season": 2,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 55,
+        "rating": { "average": 8 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/960694.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960694.jpg"
+        },
+        "summary": "<p>A guest at Kaer Morhen extends a guiding hand to Ciri — and an invitation to Geralt. On the run in Redania, Yennefer seeks safety below ground.</p><p><br /> </p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127860" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127861,
+        "url": "https://www.tvmaze.com/episodes/2127861/the-witcher-2x05-turn-your-back",
+        "name": "Turn Your Back",
+        "season": 2,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 57,
+        "rating": { "average": 7.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/960695.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960695.jpg"
+        },
+        "summary": "<p>As a powerful mage joins the hunt for Ciri, she cuts a deal with Vesemir over his extraordinary discovery. Geralt explores the mystery of the monoliths.</p><p><br /> </p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127861" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127862,
+        "url": "https://www.tvmaze.com/episodes/2127862/the-witcher-2x06-dear-friend",
+        "name": "Dear Friend...",
+        "season": 2,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 57,
+        "rating": { "average": 7.8 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/960696.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960696.jpg"
+        },
+        "summary": "<p>A close friend is lost — and another found — as Geralt helps Ciri learn more about her power. Cahir warns Fringilla to focus on their primary mission.</p><p><br /> </p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127862" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127863,
+        "url": "https://www.tvmaze.com/episodes/2127863/the-witcher-2x07-voleth-meir",
+        "name": "Voleth Meir",
+        "season": 2,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 55,
+        "rating": { "average": 8 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/960697.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/960697.jpg"
+        },
+        "summary": "<p>Geralt turns to a humble bard for help, Yennefer realizes just how special Ciri is, and tensions rise on the eve of Emperor Emhyr's visit to Cintra.</p><p><br /> </p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127863" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2127864,
+        "url": "https://www.tvmaze.com/episodes/2127864/the-witcher-2x08-family",
+        "name": "Family",
+        "season": 2,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2021-12-17",
+        "airtime": "",
+        "airstamp": "2021-12-17T12:00:00+00:00",
+        "runtime": 52,
+        "rating": { "average": 8 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/393/983435.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/393/983435.jpg"
+        },
+        "summary": "<p>Geralt faces off with a demon targeting his nearest and dearest while the most powerful players on the Continent ramp up their pursuit of Ciri.</p><p><br /> </p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2127864" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534816,
+        "url": "https://www.tvmaze.com/episodes/2534816/the-witcher-3x01-shaerrawedd",
+        "name": "Shaerrawedd",
+        "season": 3,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2023-06-29",
+        "airtime": "",
+        "airstamp": "2023-06-29T12:00:00+00:00",
+        "runtime": 63,
+        "rating": { "average": 7.5 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/466/1167095.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/466/1167095.jpg"
+        },
+        "summary": "<p>Geralt, Yennefer and Ciri journey to the far reaches of the Continent in search of a safe haven. King Vizimir puts his charming younger brother to use.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534816" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534859,
+        "url": "https://www.tvmaze.com/episodes/2534859/the-witcher-3x02-unbound",
+        "name": "Unbound",
+        "season": 3,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2023-06-29",
+        "airtime": "",
+        "airstamp": "2023-06-29T12:00:00+00:00",
+        "runtime": 58,
+        "rating": { "average": 7.6 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/466/1167096.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/466/1167096.jpg"
+        },
+        "summary": "<p>A shocking discovery awaits Geralt after he obtains information on Rience. Ciri's sense of justice causes problems. Jaskier performs for a royal fan.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534859" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534860,
+        "url": "https://www.tvmaze.com/episodes/2534860/the-witcher-3x03-reunion",
+        "name": "Reunion",
+        "season": 3,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2023-06-29",
+        "airtime": "",
+        "airstamp": "2023-06-29T12:00:00+00:00",
+        "runtime": 62,
+        "rating": { "average": 7.3 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/466/1167097.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/466/1167097.jpg"
+        },
+        "summary": "<p>Geralt seeks magical help from a family friend as Ciri and Yennefer clash over plans for the future. Philippa and Dijkstra scheme to get Vizimir in line.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534860" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534861,
+        "url": "https://www.tvmaze.com/episodes/2534861/the-witcher-3x04-the-invitation",
+        "name": "The Invitation",
+        "season": 3,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2023-06-29",
+        "airtime": "",
+        "airstamp": "2023-06-29T12:00:00+00:00",
+        "runtime": 52,
+        "rating": { "average": 7.5 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/466/1167098.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/466/1167098.jpg"
+        },
+        "summary": "<p>Yennefer pitches a bold idea to the Brotherhood, Geralt strikes a dangerous deal with a ferryman, and Triss digs into the mystery of the missing novices.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534861" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534862,
+        "url": "https://www.tvmaze.com/episodes/2534862/the-witcher-3x05-the-art-of-illusion",
+        "name": "The Art of Illusion",
+        "season": 3,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2023-06-29",
+        "airtime": "",
+        "airstamp": "2023-06-29T12:00:00+00:00",
+        "runtime": 48,
+        "rating": { "average": 7.5 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/466/1167099.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/466/1167099.jpg"
+        },
+        "summary": "<p>Yennefer and Geralt step out arm in arm and dressed to kill at a lavish ball, but all is not as it seems during a night of revelry and revelations.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534862" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534863,
+        "url": "https://www.tvmaze.com/episodes/2534863/the-witcher-3x06-everybody-has-a-plan-til-they-get-punched-in-the-face",
+        "name": "Everybody Has a Plan 'til They Get Punched in the Face",
+        "season": 3,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2023-07-27",
+        "airtime": "",
+        "airstamp": "2023-07-27T12:00:00+00:00",
+        "runtime": 48,
+        "rating": { "average": 7.1 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/470/1176137.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/470/1176137.jpg"
+        },
+        "summary": "<p>Betrayal and bloodshed rock the conclave when the hunt for Ciri comes to a head. As sides are chosen and enemies unmasked, nothing will ever be the same.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534863" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534864,
+        "url": "https://www.tvmaze.com/episodes/2534864/the-witcher-3x07-out-of-the-fire-into-the-frying-pan",
+        "name": "Out of the Fire, Into the Frying Pan",
+        "season": 3,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2023-07-27",
+        "airtime": "",
+        "airstamp": "2023-07-27T12:00:00+00:00",
+        "runtime": 52,
+        "rating": { "average": 6.6 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/470/1176138.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/470/1176138.jpg"
+        },
+        "summary": "<p>Haunted by faces from the past, Ciri endures the ultimate test of survival on a desperate journey under the harshest of conditions.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534864" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      },
+      {
+        "id": 2534865,
+        "url": "https://www.tvmaze.com/episodes/2534865/the-witcher-3x08-the-cost-of-chaos",
+        "name": "The Cost of Chaos",
+        "season": 3,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2023-07-27",
+        "airtime": "",
+        "airstamp": "2023-07-27T12:00:00+00:00",
+        "runtime": 65,
+        "rating": { "average": 6.9 },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/470/1176139.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/470/1176139.jpg"
+        },
+        "summary": "<p>After the fateful events at Aretuza, Geralt and Yennefer struggle to pick up the pieces and reunite their family as war comes to the Continent.</p>",
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/episodes/2534865" },
+          "show": { "href": "https://api.tvmaze.com/shows/28276" }
+        }
+      }
+    ]
+  }
+}

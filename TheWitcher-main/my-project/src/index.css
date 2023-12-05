@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+
+    :root{
+      --bg-Dark: #1B1C1E;
+
+      --bg-Dark-30:  rgba(23,28,38,.3);
+      --bg-Dark-50:  rgba(23,28,38,.5);
+      --bg-Dark-70:  rgba(23,28,38,.7);
+
+      --bg-Dark-gray-bleu: #172026;
+      --bg-Gray: #575859;
+      --bg-Gray-bleu: #2c333b;
+      --bg-Brown: #937C4E;
+      --bg-Gold: #D6852C;
+      --bg-White: #FBFBFB;
+      --bg-Dark-red: #950309;
+
+    }
+    .theme-dark{
+      --bg-Dark: #ffffffcd;
+
+
+      --bg-Dark-30:  rgba(255, 255, 255, 0.3);
+      --bg-Dark-50:  rgba(255, 255, 255, 0.5);
+      --bg-Dark-70:  rgba(255, 255, 255, 0.7);
+
+      --bg-Dark-gray-bleu: #f8f8f8;
+      --bg-Gray: #c9c9c9;
+      --bg-Gray-bleu: #f4f9ff;
+      --bg-Brown: #c6a76a;
+      --bg-Gold: #5c4023;
+      --bg-White: #0a0a0a;
+      --bg-Dark-red: #bf4b4f;
+
+
+    }
+
+
+  }
